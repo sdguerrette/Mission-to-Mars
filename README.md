@@ -1,1 +1,1 @@
-# Mission-to-Mars
+This repository is a showcase on using splinter, beautiful soup, mongodb, flask, html, and bootstap to scrape, store, and present data related to NASA's Mars missions.
